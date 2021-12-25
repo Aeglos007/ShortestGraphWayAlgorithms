@@ -1,5 +1,5 @@
 # ShortestGraphWayAlgorithms
-Burada iki graph arası en kısa yolları bir Dijkstra algoritması ile bir de Prim Algoritması ile hesaplayacağız. En son kısımda ise dijskstra algoritmasını python ile şekilsel göstereceğiz.
+Burada graphlar arası en kısa rotaları bir Dijkstra algoritması ile bir de Prim Algoritması ile hesaplayacağız. En son kısımda ise dijskstra algoritmasını python ile şekilsel göstereceğiz.
 
 1)Dijkstra Algoritması
 Algoritma seçilen başlangıç noktasından hedef yere olan bütün gidiş yollarının maliyetlerini hesaplayıp bize en kısa yolu verir.
